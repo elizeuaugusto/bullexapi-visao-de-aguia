@@ -3,7 +3,7 @@ from setuptools import setup, find_namespace_packages
 
 setup(
     name="bullexapi",
-    version="0.1.0",
+    version="0.1.1",
     description="Wrapper Python para Bullex API",
     author="L0k1",
     author_email="cassioms764@gmail.com",
